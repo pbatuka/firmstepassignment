@@ -17,7 +17,7 @@
 
 <h1>Add new customer to queue</h1>
 <h4> Fill in form to add customer to queue</h4>
-	<form>
+	<form action="" method="POST">
     	<input type="radio" name="service" value="Housing" checked> Housing<br>
   		<input type="radio" name="service" value="Benefits"> Benefits<br>
   		<input type="radio" name="service" value="Council Tax">Council Tax<br />
